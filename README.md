@@ -8,5 +8,6 @@ docker-compose  postgresql 、 pgadmin 、 redis
 
 ![iamge](https://github.com/lovequ4/golang_react_socialmedia/blob/main/ScreenShot/Recording%202023-07-09%20at%2019.15.49.gif)
 
-
 ![iamge](https://github.com/lovequ4/golang_react_socialmedia/blob/main/ScreenShot/Recording%202023-07-09%20at%2019.28.59.gif)
+
+![]
